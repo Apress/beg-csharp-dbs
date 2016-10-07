@@ -1,0 +1,61 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connection_Sql", "Connection_Sql\Connection_Sql.csproj", "{4008A849-A7F2-4E7E-9678-ED95C7A37A62}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Display", "Display\Display.csproj", "{ED3522B1-5C12-425A-B226-D880B14D5BC9}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Db2Connect", "Db2ConnectAdo\Db2Connect.csproj", "{2804CAA2-DAC7-468D-913B-539D4024AA13}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OracleConnect", "OracleConnect\OracleConnect.csproj", "{F87F19B5-62B7-4B98-BB7D-F0A88581643D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessConnect", "AccessConnect\AccessConnect.csproj", "{DFF4D617-754B-4036-B0D7-773E1CE1B9D7}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySqlConnect", "MySqlConnect\MySqlConnect.csproj", "{FCF2CAD2-03D2-490F-8BFC-D7793F98A451}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{4008A849-A7F2-4E7E-9678-ED95C7A37A62}.Debug.ActiveCfg = Debug|.NET
+		{4008A849-A7F2-4E7E-9678-ED95C7A37A62}.Debug.Build.0 = Debug|.NET
+		{4008A849-A7F2-4E7E-9678-ED95C7A37A62}.Release.ActiveCfg = Release|.NET
+		{4008A849-A7F2-4E7E-9678-ED95C7A37A62}.Release.Build.0 = Release|.NET
+		{ED3522B1-5C12-425A-B226-D880B14D5BC9}.Debug.ActiveCfg = Debug|.NET
+		{ED3522B1-5C12-425A-B226-D880B14D5BC9}.Debug.Build.0 = Debug|.NET
+		{ED3522B1-5C12-425A-B226-D880B14D5BC9}.Release.ActiveCfg = Release|.NET
+		{ED3522B1-5C12-425A-B226-D880B14D5BC9}.Release.Build.0 = Release|.NET
+		{2804CAA2-DAC7-468D-913B-539D4024AA13}.Debug.ActiveCfg = Debug|.NET
+		{2804CAA2-DAC7-468D-913B-539D4024AA13}.Debug.Build.0 = Debug|.NET
+		{2804CAA2-DAC7-468D-913B-539D4024AA13}.Release.ActiveCfg = Release|.NET
+		{2804CAA2-DAC7-468D-913B-539D4024AA13}.Release.Build.0 = Release|.NET
+		{F87F19B5-62B7-4B98-BB7D-F0A88581643D}.Debug.ActiveCfg = Debug|.NET
+		{F87F19B5-62B7-4B98-BB7D-F0A88581643D}.Debug.Build.0 = Debug|.NET
+		{F87F19B5-62B7-4B98-BB7D-F0A88581643D}.Release.ActiveCfg = Release|.NET
+		{F87F19B5-62B7-4B98-BB7D-F0A88581643D}.Release.Build.0 = Release|.NET
+		{DFF4D617-754B-4036-B0D7-773E1CE1B9D7}.Debug.ActiveCfg = Debug|.NET
+		{DFF4D617-754B-4036-B0D7-773E1CE1B9D7}.Debug.Build.0 = Debug|.NET
+		{DFF4D617-754B-4036-B0D7-773E1CE1B9D7}.Release.ActiveCfg = Release|.NET
+		{DFF4D617-754B-4036-B0D7-773E1CE1B9D7}.Release.Build.0 = Release|.NET
+		{FCF2CAD2-03D2-490F-8BFC-D7793F98A451}.Debug.ActiveCfg = Debug|.NET
+		{FCF2CAD2-03D2-490F-8BFC-D7793F98A451}.Debug.Build.0 = Debug|.NET
+		{FCF2CAD2-03D2-490F-8BFC-D7793F98A451}.Release.ActiveCfg = Release|.NET
+		{FCF2CAD2-03D2-490F-8BFC-D7793F98A451}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?>
+<UpgradeLog>
+<Properties><Property Name="Solution" Value="Chapter22_Examples">
+</Property><Property Name="Solution File" Value="C:\BegCSharpDb\Chapter22_Examples\Chapter22_Examples.sln">
+</Property><Property Name="Date" Value="Monday, August 30, 2004">
+</Property><Property Name="Time" Value="15:34:15 PM">
+</Property></Properties><Event ErrorLevel="0" Project="ComplexBinding" Source="..\Chapter9_Examples\ComplexBinding\ComplexBinding.csproj" Description="Project file successfully backed up as C:\BegCSharpDb\Chapter22_Examples\Backup\ComplexBinding.csproj">
+</Event><Event ErrorLevel="0" Project="ComplexBinding" Source="..\Chapter9_Examples\ComplexBinding\AssemblyInfo.cs" Description="File successfully backed up as C:\BegCSharpDb\Chapter22_Examples\Backup\ComplexBinding.csproj">
+</Event><Event ErrorLevel="0" Project="ComplexBinding" Source="..\Chapter9_Examples\ComplexBinding\Form1.cs" Description="File successfully backed up as C:\BegCSharpDb\Chapter22_Examples\Backup\ComplexBinding.csproj">
+</Event><Event ErrorLevel="0" Project="ComplexBinding" Source="..\Chapter9_Examples\ComplexBinding\App.ico" Description="File successfully backed up as C:\BegCSharpDb\Chapter22_Examples\Backup\ComplexBinding.csproj">
+</Event><Event ErrorLevel="0" Project="ComplexBinding" Source="..\Chapter9_Examples\ComplexBinding\Form1.resx" Description="File successfully backed up as C:\BegCSharpDb\Chapter22_Examples\Backup\ComplexBinding.csproj">
+</Event><Event ErrorLevel="0" Project="ComplexBinding" Source="..\Chapter9_Examples\ComplexBinding\ComplexBinding.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ComplexBinding" Source="..\Chapter9_Examples\ComplexBinding\ComplexBinding.csproj" Description="Converted">
+</Event></UpgradeLog>

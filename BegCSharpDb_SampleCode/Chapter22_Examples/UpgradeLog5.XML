@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?>
+<UpgradeLog>
+<Properties><Property Name="Solution" Value="Chapter22_Examples">
+</Property><Property Name="Solution File" Value="C:\BegCSharpDb\Chapter22_Examples\Chapter22_Examples.sln">
+</Property><Property Name="User Options File" Value="C:\BegCSharpDb\Chapter22_Examples\Chapter22_Examples.suo">
+</Property><Property Name="Date" Value="Thursday, October 28, 2004">
+</Property><Property Name="Time" Value="10:32 AM">
+</Property><Property Name="LogNumber" Value="5">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Chapter22_Examples.sln" Description="File successfully backed up as C:\BegCSharpDb\Chapter22_Examples\Backup3\Chapter22_Examples.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Chapter22_Examples.suo" Description="File successfully backed up as C:\BegCSharpDb\Chapter22_Examples\Backup3\Chapter22_Examples.suo">
+</Event><Event ErrorLevel="0" Project="ComplexBinding" Source="..\Chapter9_Examples\ComplexBinding\ComplexBinding.csproj" Description="Project file successfully backed up as C:\BegCSharpDb\Chapter22_Examples\Backup3\ComplexBinding\ComplexBinding.csproj">
+</Event><Event ErrorLevel="0" Project="ComplexBinding" Source="..\Chapter9_Examples\ComplexBinding\AssemblyInfo.cs" Description="File successfully backed up as C:\BegCSharpDb\Chapter22_Examples\Backup3\ComplexBinding\ComplexBinding.csproj">
+</Event><Event ErrorLevel="0" Project="ComplexBinding" Source="..\Chapter9_Examples\ComplexBinding\Form1.cs" Description="File successfully backed up as C:\BegCSharpDb\Chapter22_Examples\Backup3\ComplexBinding\ComplexBinding.csproj">
+</Event><Event ErrorLevel="0" Project="ComplexBinding" Source="..\Chapter9_Examples\ComplexBinding\App.ico" Description="File successfully backed up as C:\BegCSharpDb\Chapter22_Examples\Backup3\ComplexBinding\ComplexBinding.csproj">
+</Event><Event ErrorLevel="0" Project="ComplexBinding" Source="..\Chapter9_Examples\ComplexBinding\Form1.resx" Description="File successfully backed up as C:\BegCSharpDb\Chapter22_Examples\Backup3\ComplexBinding\ComplexBinding.csproj">
+</Event><Event ErrorLevel="0" Project="ComplexBinding" Source="..\Chapter9_Examples\ComplexBinding\ComplexBinding.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ComplexBinding" Source="..\Chapter9_Examples\ComplexBinding\ComplexBinding.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WriteXml" Source="..\Chapter8_Examples\WriteXml\WriteXml.csproj" Description="Project file successfully backed up as C:\BegCSharpDb\Chapter22_Examples\Backup3\WriteXml\WriteXml.csproj">
+</Event><Event ErrorLevel="0" Project="WriteXml" Source="..\Chapter8_Examples\WriteXml\AssemblyInfo.cs" Description="File successfully backed up as C:\BegCSharpDb\Chapter22_Examples\Backup3\WriteXml\WriteXml.csproj">
+</Event><Event ErrorLevel="0" Project="WriteXml" Source="..\Chapter8_Examples\WriteXml\Class1.cs" Description="File successfully backed up as C:\BegCSharpDb\Chapter22_Examples\Backup3\WriteXml\WriteXml.csproj">
+</Event><Event ErrorLevel="0" Project="WriteXml" Source="..\Chapter8_Examples\WriteXml\App.ico" Description="File successfully backed up as C:\BegCSharpDb\Chapter22_Examples\Backup3\WriteXml\WriteXml.csproj">
+</Event><Event ErrorLevel="0" Project="WriteXml" Source="..\Chapter8_Examples\WriteXml\WriteXml.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WriteXml" Source="..\Chapter8_Examples\WriteXml\WriteXml.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataGridUpdate" Source="..\Chapter9_Examples\DataGridUpdate\DataGridUpdate.csproj" Description="Project file successfully backed up as C:\BegCSharpDb\Chapter22_Examples\Backup3\DataGridUpdate\DataGridUpdate.csproj">
+</Event><Event ErrorLevel="0" Project="DataGridUpdate" Source="..\Chapter9_Examples\DataGridUpdate\AssemblyInfo.cs" Description="File successfully backed up as C:\BegCSharpDb\Chapter22_Examples\Backup3\DataGridUpdate\DataGridUpdate.csproj">
+</Event><Event ErrorLevel="0" Project="DataGridUpdate" Source="..\Chapter9_Examples\DataGridUpdate\Form1.cs" Description="File successfully backed up as C:\BegCSharpDb\Chapter22_Examples\Backup3\DataGridUpdate\DataGridUpdate.csproj">
+</Event><Event ErrorLevel="0" Project="DataGridUpdate" Source="..\Chapter9_Examples\DataGridUpdate\App.ico" Description="File successfully backed up as C:\BegCSharpDb\Chapter22_Examples\Backup3\DataGridUpdate\DataGridUpdate.csproj">
+</Event><Event ErrorLevel="0" Project="DataGridUpdate" Source="..\Chapter9_Examples\DataGridUpdate\Form1.resx" Description="File successfully backed up as C:\BegCSharpDb\Chapter22_Examples\Backup3\DataGridUpdate\DataGridUpdate.csproj">
+</Event><Event ErrorLevel="0" Project="DataGridUpdate" Source="..\Chapter9_Examples\DataGridUpdate\DataGridUpdate.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataGridUpdate" Source="..\Chapter9_Examples\DataGridUpdate\DataGridUpdate.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Chapter22_Examples.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="Chapter22_Examples.sln" Description="No Conversion Required">
+</Event></UpgradeLog>

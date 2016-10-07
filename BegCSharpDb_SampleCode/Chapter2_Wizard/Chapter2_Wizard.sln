@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataFormWizard", "DataFormWizard\DataFormWizard.csproj", "{9137EDAA-556B-4A83-B332-D04A0B041859}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{9137EDAA-556B-4A83-B332-D04A0B041859}.Debug.ActiveCfg = Debug|.NET
+		{9137EDAA-556B-4A83-B332-D04A0B041859}.Debug.Build.0 = Debug|.NET
+		{9137EDAA-556B-4A83-B332-D04A0B041859}.Release.ActiveCfg = Release|.NET
+		{9137EDAA-556B-4A83-B332-D04A0B041859}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

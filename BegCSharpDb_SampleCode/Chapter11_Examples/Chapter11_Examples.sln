@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDataValidation", "http://localhost/WebDataValidation/WebDataValidation.csproj", "{CBE5C886-D250-4B8D-A30D-8D86731A11BE}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CBE5C886-D250-4B8D-A30D-8D86731A11BE}.Debug.ActiveCfg = Debug|.NET
+		{CBE5C886-D250-4B8D-A30D-8D86731A11BE}.Debug.Build.0 = Debug|.NET
+		{CBE5C886-D250-4B8D-A30D-8D86731A11BE}.Release.ActiveCfg = Release|.NET
+		{CBE5C886-D250-4B8D-A30D-8D86731A11BE}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

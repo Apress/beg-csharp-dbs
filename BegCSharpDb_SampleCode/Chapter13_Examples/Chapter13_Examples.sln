@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryProcessor", "SqlProcessor\QueryProcessor.csproj", "{9DF23955-2CAC-4DEF-9034-26E61C870890}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{9DF23955-2CAC-4DEF-9034-26E61C870890}.Debug.ActiveCfg = Debug|.NET
+		{9DF23955-2CAC-4DEF-9034-26E61C870890}.Debug.Build.0 = Debug|.NET
+		{9DF23955-2CAC-4DEF-9034-26E61C870890}.Release.ActiveCfg = Release|.NET
+		{9DF23955-2CAC-4DEF-9034-26E61C870890}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

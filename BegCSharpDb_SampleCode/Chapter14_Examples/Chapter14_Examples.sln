@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewsAndSPs", "..\..\aaaBCSDB\Wrox code\Chapter14_Examples\Views_and_SPs\ViewsAndSPs.csproj", "{2F7B8ADA-B0DA-4049-BA7C-3B3F09D77F77}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{2F7B8ADA-B0DA-4049-BA7C-3B3F09D77F77}.Debug.ActiveCfg = Debug|.NET
+		{2F7B8ADA-B0DA-4049-BA7C-3B3F09D77F77}.Debug.Build.0 = Debug|.NET
+		{2F7B8ADA-B0DA-4049-BA7C-3B3F09D77F77}.Release.ActiveCfg = Release|.NET
+		{2F7B8ADA-B0DA-4049-BA7C-3B3F09D77F77}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
